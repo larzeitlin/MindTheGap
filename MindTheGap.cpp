@@ -251,7 +251,7 @@ void MindTheGap::repitch()
     outBufSize = mNextDelaySams;
     
     
-    std::cout<<outBufSize<<std::endl;
+    //std::cout<<outBufSize<<std::endl;
     
     
     
